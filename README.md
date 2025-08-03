@@ -10,9 +10,8 @@
 - 👨‍💻 Atualmente focado em desenvolvimento **Fullstack com ASP.NET Core e React**.
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas - UNIP Sorocaba.
 - 🎥 Criador de conteúdo para o Youtube voltado para tecnologia.
-- 🛠️ Experiência com projetos pessoais e micro-SaaS.
+- 🛠️ Experiência com projetos pessoais e mercado de trabalho.
 - 🌱 Estudando arquitetura de software e gestão de projetos.
-- 💡 Criei este GitHub para compartilhar meus estudos, projetos e ideias de software voltadas à organização, produtividade e automação.
 
 ---
 
