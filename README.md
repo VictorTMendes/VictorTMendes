@@ -1,76 +1,17 @@
-# 🇧🇷
-# 👋 Olá, eu sou o Victor Teixeira Mendes!
+# 🇺🇸 🇧🇷 
+# 👋 Hello, I'm Victor Teixeira Mendes!
 
-🎯 Desenvolvedor Fullstack Jr | Apaixonado por tecnologia, aprendizado constante e criação de soluções úteis.
-
----
-
-## 🚀 Sobre mim
-
-- 👨‍💻 Atualmente focado em desenvolvimento **Fullstack com ASP.NET Core e React**.
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas - UNIP Sorocaba.
-- 🎥 Criador de conteúdo para o Youtube voltado para tecnologia.
-- 🛠️ Experiência com projetos pessoais e mercado de trabalho.
-- 🌱 Estudando arquitetura de software e gestão de projetos.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VictorTMendes&show_icons=true&theme=tokyonight&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorTMendes&layout=compact&theme=tokyonight)
-
-</div>
-
-
-## 🧰 Tecnologias e Ferramentas
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 📌 Projetos em destaque
-
-### 💵 [App Money Flow](https://github.com/VictorTMendes/Money-Flow)
-> Aplicação fullstack para controle e gestão de finanças.
-
----
-
-## 🌍 Redes Sociais
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/victorteixeirz)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@victorteixeirz/videos)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-teixeira-678825292/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victortm2508@gmail.com)
-
----
-
-⭐ Obrigado por visitar meu perfil! Me acompanhe para mais projetos e aprendizados.
-
----
-
-# 🇺🇸
-# 👋 Hi, I'm Victor Teixeira Mendes!
-
-🎯 Junior Fullstack Developer | Passionate about technology, continuous learning, and creating useful solutions.
+🎯 **Fullstack Developer** | Passionate about technology, continuous learning, and creating useful solutions.
 
 ---
 
 ## 🚀 About Me
 
-- 👨‍💻 Currently focused on **Fullstack development with ASP.NET Core and React**.
-- 🎓 Studying Systems Analysis and Development - UNIP Sorocaba.
-- 🎥 Tech content creator on YouTube.
-- 🛠️ Experience with personal projects and micro-SaaS development.
-- 🌱 Learning about software architecture and project management.
-- 💡 I created this GitHub to share my studies, projects, and software ideas focused on organization, productivity, and automation.
+- 👨‍💻 Currently working as a **Fullstack Developer with ASP.NET Core and React**.  
+- 🎓 Student of **Systems Analysis and Development** at UNIP Sorocaba.  
+- 🎥 **Content creator on YouTube**, focused on technology and programming.  
+- 🛠️ Experience with **personal and professional projects**.  
+- 🌱 Currently learning **software architecture** and **project management**.
 
 ---
 
@@ -88,28 +29,37 @@
 ## 🧰 Technologies & Tools
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Artificial Intelligence](https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
 ## 📌 Featured Projects
 
-### 💵 [App Money Flow](https://github.com/VictorTMendes/Money-Flow)
-> Fullstack application for financial management and control.
+### 💵 [Money Flow Web App](https://github.com/VictorTMendes/Projeto-integrado-multidisciplinar)
+> Fullstack application for **financial control and management**.
 
 ---
 
 ## 🌍 Social Media
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/victorteixeirz)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@victorteixeirz/videos)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/victorteixeira.ia)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@victormendxs)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-teixeira-678825292/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victortm2508@gmail.com)
 
 ---
 
-⭐ Thanks for visiting my profile! Follow me to see more projects and learning journeys.
+⭐ **Thanks for visiting my profile!**  
+Follow me for more projects and learning journeys.
+
+---
