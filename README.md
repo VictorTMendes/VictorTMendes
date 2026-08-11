@@ -1,92 +1,48 @@
-<div align="center">
+# 🇺🇸 🇧🇷 
+# 👋 Hello, I'm Victor Teixeira Mendes!
 
-<!-- BANNER HERO -->
-<img src="https://raw.githubusercontent.com/VictorTMendes/VictorTMendes/main/assets/banner-black.jpg" height="300px" alt="Banner" style="object-fit: cover;" />
-
-<br/>
-
-<!-- SOCIAL BADGES -->
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=ffffff)](https://linkedin.com/in/seu-usuario)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=flat-square&logo=vercel&logoColor=ffffff)](https://victorteixeirx.com)
-[![Email](https://img.shields.io/badge/EMAIL-000000?style=flat-square&logo=gmail&logoColor=ffffff)](mailto:mxndes.dev@gmail.com)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-000000?style=flat-square&logo=instagram&logoColor=ffffff)](https://instagram.com/prodtyda)
-
-</div>
+🎯 **Fullstack Developer** | Passionate about technology, continuous learning, and creating useful solutions.
 
 ---
 
-### 👤 About me
+## 🚀 About Me
 
-Hello, I'm **Victor Teixeira** and I'm a full-stack developer at VSI Soluções em Tecnologia da Informática.
-I specialize in web development, from landing pages to robust enterprise systems.
-I'm fascinated by technology and everything it can offer, and in my free time I enjoy taking on new challenges in new technologies.
-Welcome to my GitHub ;)
-
-- 🏗️ Building **[Finsepay](www.finsepay.com)** — a payment gateway SaaS for Brazilian devs
-- 📱 Micro-SaaS — Event Management for Sports Photographers
-- 🌐 Open to **freelance & collaborations**
+- 👨‍💻 Currently working as a **Fullstack Developer with ASP.NET Core and React**.  
+- 🎓 Student of **Systems Analysis and Development** at UNIP Sorocaba.  
+- 🎥 **Content creator on YouTube**, focused on technology and programming.  
+- 🛠️ Experience with **personal and professional projects**.  
+- 🌱 Currently learning **software architecture** and **project management**.
 
 ---
 
-### 🛠️ Technologies
+## 🧰 Technologies & Tools
 
-**Frontend**
-
-![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=ffffff)
-![React Native](https://img.shields.io/badge/React_Native-000000?style=flat-square&logo=react&logoColor=ffffff)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=ffffff)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-000000?style=flat-square&logo=tailwind-css&logoColor=ffffff)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=ffffff)
-
-**Backend & Database**
-
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=ffffff)
-![C#](https://img.shields.io/badge/C%23-000000?style=flat-square&logo=c-sharp&logoColor=ffffff)
-![.NET](https://img.shields.io/badge/.NET-000000?style=flat-square&logo=dotnet&logoColor=ffffff)
-![SQL Server](https://img.shields.io/badge/SQL_Server-000000?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=ffffff)
-![SQLite](https://img.shields.io/badge/SQLite-000000?style=flat-square&logo=sqlite&logoColor=ffffff)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=ffffff)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=ffffff)
-![Expo](https://img.shields.io/badge/Expo-000000?style=flat-square&logo=expo&logoColor=ffffff)
-![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=ffffff)
-![VS Code](https://img.shields.io/badge/VS_Code-000000?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![SAP](https://img.shields.io/badge/SAP-000000?style=flat-square&logo=sap&logoColor=ffffff)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Artificial Intelligence](https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)&nbsp;
 
 ---
 
-### 📊 Statistics
+## 🌍 Social Media
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=VictorTMendes&show_icons=true&hide_border=true&bg_color=0D1117&title_color=ffffff&icon_color=aaaaaa&text_color=cccccc&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorTMendes&layout=compact&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=cccccc&langs_count=6" />
-
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=VictorTMendes&hide_border=true&background=0D1117&ring=ffffff&fire=aaaaaa&currStreakLabel=ffffff&sideLabels=cccccc&dates=888888&sideNums=ffffff&currStreakNum=ffffff)](https://git.io/streak-stats)
-
-</div>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/victorteixeira.ia)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@victormendxs)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-teixeira-678825292/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victortm2508@gmail.com)
 
 ---
 
-### 📈 Contribution Graph
-
-<div align="center">
-
-[![Victor's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VictorTMendes&bg_color=0D1117&color=6EE7B7&line=6EE7B7&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
+⭐ **Thanks for visiting my profile!**  
+Follow me for more projects and learning journeys.
 
 ---
-
-<div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=VictorTMendes&color=6EE7B7&style=flat-square&label=Profile+Views)
-
-</div>
